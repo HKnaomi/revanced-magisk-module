@@ -1,5 +1,5 @@
-Twitter: 10.20.0-release.0  
 Spotify: 1.9.0.49155  
+Twitter: 10.20.0-release.0  
 YouTube: 18.45.43  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
